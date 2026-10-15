@@ -21,9 +21,9 @@ This project investigates whether Google search interest in salient political is
 
 ## Data Sources
 
-FORSA polling data
-GESIS – ZDF Politbarometer
-Google Trends
+- FORSA polling data
+- GESIS – ZDF Politbarometer
+- Google Trends
 ## Reference
 
 Thiele, J. (2025). Predicting Polling Results of German Parties with Google Trends Data of Political Topics.
